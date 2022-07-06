@@ -1,7 +1,7 @@
 #### Hi
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Shohret Agazada</h1>
 #### I am Backend Developer
-<h1 align="center"><img height=300 width=600 alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /></h1>
+<h1 align="center"><img height=250 width=950 alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /></h1>
 ![I am Backend Developer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 I was born on 26.06.2001. I have been interested in programming since school days. I used to make small projects and show them to my friends. Then I decided to make programming my job. I went to college and went to some courses. Now every day I try to thrive in the job I love
