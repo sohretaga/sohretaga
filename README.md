@@ -1,4 +1,4 @@
-### Hi there (https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) 👋, my name is Shohrat Agazada
+### Hi there <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Atharva</h1> 👋, my name is Shohrat Agazada
 #### I am Backend Developer
 ![I am Backend Developer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
