@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Shohret Agazada <img height=40 width=40 alt="GIF" src="https://github.githubassets.com/images/mona-loading-default.gif" /></h1>
 <h3>I am Backend Developer</h3>
-<h1 align="center"><img height=270 width=950 alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /></h1>
+<!--<h1 align="center"><img height=270 width=950 alt="GIF" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /></h1>-->
 
 <p>I was born on 26.06.2001. I have been interested in programming since school days. I used to make small projects and show them to my friends. Then I decided to make programming my job. I went to college and went to some courses. Now every day I try to thrive in the job I love</p>
 
